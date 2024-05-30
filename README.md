@@ -1,5 +1,7 @@
 Comprehensive Analysis of NBA Draft Trends
+
 Overview
+
 This project aims to analyze NBA draft trends with a focus on evaluating career longevity, performance metrics, and the success of top 3 picks. Inspired by my passion for basketball and favorite teams, this project leverages data science techniques to uncover insights about player trajectories and team strategies.
 
 Objectives
